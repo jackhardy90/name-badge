@@ -1,0 +1,6 @@
+They event I used was the "keypress" and "click" events.
+
+From what I understand, there isn't really a "best" place to link your javascript, but the <head> section or after the </body> section.
+
+
+I think it is best to keep your files seperate to avoid duplicate code and confusion
